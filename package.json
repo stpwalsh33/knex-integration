@@ -1,0 +1,25 @@
+{
+  "name": "knex-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stpwalsh33/knex-integration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stpwalsh33/knex-integration/issues"
+  },
+  "homepage": "https://github.com/stpwalsh33/knex-integration#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "knex": "^1.0.4",
+    "objection": "^3.0.1",
+    "pg": "^8.7.3"
+  }
+}
